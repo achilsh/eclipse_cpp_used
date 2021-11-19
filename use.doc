@@ -1,1 +1,8 @@
+1.从存在的项目，使用eclipse编辑器打开该项目。
+2. 选择workspace, 默认设置自己的
+3.选择file --> import， select ---> c/c++ , Existing code as Makefile Project
+4.设置项目名，选择已存在的代码路径
+5.选择 toolchain， 一般参考操作eclipse 安装的操作系统
+6. 增加安装第三方库的引用：
+7. 项目文件上，右键，选择属性(properties),  c/c++ general --> paths and symbols --> includes -
 
