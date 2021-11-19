@@ -4,5 +4,8 @@
 4.设置项目名，选择已存在的代码路径
 5.选择 toolchain， 一般参考操作eclipse 安装的操作系统
 6. 增加安装第三方库的引用：
-7. 项目文件上，右键，选择属性(properties),  c/c++ general --> paths and symbols --> includes -
+7. 项目文件上，右键，选择属性(properties),  c/c++ general --> paths and symbols --> includes 
+参考： https://www.cnblogs.com/ylan2009/archive/2012/04/16/2451080.html ； https://blog.csdn.net/u013816798/article/details/51065980
 
+8. 设置保护色：
+windows--->perference --->general ---> Editors --> TextEditor ---> Appearance color options --->Background color  为 #C7EDCC
